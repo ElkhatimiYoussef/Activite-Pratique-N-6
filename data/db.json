@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "name": "Smatri Lab",
+      "price": "85463",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "Phone",
+      "price": "6325",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "asffas",
+      "price": "",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "polsl",
+      "price": "11",
+      "checked": "",
+      "id": 8
+    },
+    {
+      "name": "Iphone",
+      "price": "12000",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "Iphone",
+      "price": "12000",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "qwds",
+      "price": "0",
+      "checked": "",
+      "id": 11
+    },
+    {
+      "name": "QAWDQwd",
+      "price": "4551",
+      "checked": true,
+      "id": 12
+    }
+  ]
+}
